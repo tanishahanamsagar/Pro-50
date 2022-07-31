@@ -1,0 +1,29 @@
+h1 {
+    color: aqua
+}
+
+* {
+    border: solid
+}
+
+.header {
+    background-color: pink;
+    display: flex;
+    justify-content: space-between;
+}
+
+.line {
+    background-color: plum;
+}
+
+.para {
+    background-color: yellow;
+}
+
+.color {
+    background-color: rgb(204, 255, 189);
+}
+
+.fill {
+    background-color: rgba(204, 183, 253, 0.678);
+}
